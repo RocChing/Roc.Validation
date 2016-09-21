@@ -1,0 +1,14 @@
+C:\AAAAAAA\GitHub\Roc.TEST\bin\Debug\Roc.TEST.exe
+C:\AAAAAAA\GitHub\Roc.TEST\bin\Debug\Roc.TEST.pdb
+C:\AAAAAAA\GitHub\Roc.TEST\bin\Debug\Roc.Validation.dll
+C:\AAAAAAA\GitHub\Roc.TEST\bin\Debug\Roc.Validation.pdb
+C:\AAAAAAA\GitHub\Roc.TEST\obj\Debug\Roc.TEST.csprojResolveAssemblyReference.cache
+C:\AAAAAAA\GitHub\Roc.TEST\obj\Debug\Roc.TEST.exe
+C:\AAAAAAA\GitHub\Roc.TEST\obj\Debug\Roc.TEST.pdb
+C:\AAAAAAA\GitHub\Roc.Validation\Roc.TEST\obj\Debug\Roc.TEST.exe
+C:\AAAAAAA\GitHub\Roc.Validation\Roc.TEST\obj\Debug\Roc.TEST.pdb
+C:\AAAAAAA\GitHub\Roc.Validation\Roc.TEST\bin\Debug\Roc.TEST.exe
+C:\AAAAAAA\GitHub\Roc.Validation\Roc.TEST\bin\Debug\Roc.TEST.pdb
+C:\AAAAAAA\GitHub\Roc.Validation\Roc.TEST\bin\Debug\Roc.Validation.dll
+C:\AAAAAAA\GitHub\Roc.Validation\Roc.TEST\bin\Debug\Roc.Validation.pdb
+C:\AAAAAAA\GitHub\Roc.Validation\Roc.TEST\obj\Debug\Roc.TEST.csprojResolveAssemblyReference.cache

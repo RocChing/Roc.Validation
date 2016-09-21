@@ -1,0 +1,5 @@
+C:\AAAAAAA\Janssen\EProcess\XJP.EProcess.Validation\bin\Release\XJP.EProcess.Validation.dll
+C:\AAAAAAA\Janssen\EProcess\XJP.EProcess.Validation\bin\Release\XJP.EProcess.Validation.pdb
+C:\AAAAAAA\Janssen\EProcess\XJP.EProcess.Validation\obj\Release\XJP.EProcess.Validation.csprojResolveAssemblyReference.cache
+C:\AAAAAAA\Janssen\EProcess\XJP.EProcess.Validation\obj\Release\XJP.EProcess.Validation.dll
+C:\AAAAAAA\Janssen\EProcess\XJP.EProcess.Validation\obj\Release\XJP.EProcess.Validation.pdb

@@ -1,0 +1,4 @@
+C:\AAAAAAA\Janssen\EProcess\XJP.EProcess.Validation\bin\Debug\XJP.EProcess.Validation.dll
+C:\AAAAAAA\Janssen\EProcess\XJP.EProcess.Validation\bin\Debug\XJP.EProcess.Validation.pdb
+C:\AAAAAAA\Janssen\EProcess\XJP.EProcess.Validation\obj\Debug\XJP.EProcess.Validation.dll
+C:\AAAAAAA\Janssen\EProcess\XJP.EProcess.Validation\obj\Debug\XJP.EProcess.Validation.pdb

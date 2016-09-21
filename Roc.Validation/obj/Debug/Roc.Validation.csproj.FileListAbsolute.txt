@@ -1,0 +1,9 @@
+C:\AAAAAAA\GitHub\Roc.Validation\bin\Debug\Roc.Validation.dll
+C:\AAAAAAA\GitHub\Roc.Validation\bin\Debug\Roc.Validation.pdb
+C:\AAAAAAA\GitHub\Roc.Validation\obj\Debug\Roc.Validation.dll
+C:\AAAAAAA\GitHub\Roc.Validation\obj\Debug\Roc.Validation.pdb
+C:\AAAAAAA\GitHub\Roc.Validation\Roc.Validation\bin\Debug\Roc.Validation.dll
+C:\AAAAAAA\GitHub\Roc.Validation\Roc.Validation\bin\Debug\Roc.Validation.pdb
+C:\AAAAAAA\GitHub\Roc.Validation\Roc.Validation\obj\Debug\Roc.Validation.dll
+C:\AAAAAAA\GitHub\Roc.Validation\Roc.Validation\obj\Debug\Roc.Validation.pdb
+C:\AAAAAAA\GitHub\Roc.Validation\Roc.Validation\obj\Debug\Roc.Validation.csprojResolveAssemblyReference.cache
