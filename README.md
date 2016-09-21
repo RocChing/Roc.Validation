@@ -3,14 +3,16 @@
 
 实体 
  [Required(Name = "用户ID")]
+ 
  public int? UserId { get; set; }
-
+ 
  [Order(20)]
  [StringLength(10, CompareType.LessEqualThan, Name = "用户名")]
  public string Name { get; set; }
 
  [Range(16, 100, CompareType.Between, Name = "年龄", ErrorMsg = "{Name}字段必须大于{Min}并且小于{Max}")]
  public int Age { get; set; }
+
 
  [Mobile(Name = "手机号")]
  public string Phone { get; set; }
