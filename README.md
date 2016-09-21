@@ -1,10 +1,11 @@
 # Roc.Validation
 一个基于反射,用于.Net后台验证的项目
 
+QQ技术交流群: 118714502
+
 实体 
- [Required(Name = "用户ID")]
- 
- public int? UserId { get; set; }
+[Required(Name = "用户ID")]
+public int? UserId { get; set; }
  
  [Order(20)]
  [StringLength(10, CompareType.LessEqualThan, Name = "用户名")]
